@@ -1,4 +1,4 @@
-cutie-octo
-==========
+image-map-prototype
+===================
 
-I made this website for you. I filled it with fun things to play with.
+a simple prototype for showing an interaction on a phone. Uses image map. Very simple and quick to mock up for showing clients.
